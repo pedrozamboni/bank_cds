@@ -1,0 +1,5 @@
+1-day_forecast_lstm 
+  - Two models trained to forecast the next day cds 
+  - 7 days look back windown
+  - Conv LSTM achivied the best performance
+  
